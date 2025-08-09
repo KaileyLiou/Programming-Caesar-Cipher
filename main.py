@@ -5,7 +5,7 @@
 possibleCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 initialPosition = 0
 shiftedPosition = 0
-shiftedMessage = ""m
+shiftedMessage = ""
 
 # Run code
 
