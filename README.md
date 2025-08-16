@@ -1,6 +1,6 @@
 # Programming Caesar's Cipher
 
-This is a Python program that can encrypt and decrypt a secret message to reveal its true meaning. In this project, I learned how the Caesar cipher works and how to. wrap the alphabet around.
+This is a Python program that can encrypt and decrypt a secret message to reveal its true meaning. In this project, I learned how the Caesar cipher works and how to wrap the alphabet around.
 
 ## How to Run on macOS
 
