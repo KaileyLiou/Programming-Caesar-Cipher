@@ -13,3 +13,6 @@ cd ~/Downloads
 chmod +x main
 xattr -d com.apple.quarantine main
 ./main
+```
+
+<img width="748" height="142" alt="Programming Caesar Cipher" src="https://github.com/user-attachments/assets/9d876019-47a2-4230-80c3-2ad548ca4e06" />
